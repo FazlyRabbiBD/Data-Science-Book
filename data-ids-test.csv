@@ -1,4 +1,4 @@
-duration,protocol_type,count,srv_count,serror_rate,srv_serror_rate,rerror_rate,srv_rerror_rate,same_srv_rate,diff_srv_rate,srv_diff_host_rate,class 
+duration,protocol_type,count,srv_count,serror_rate,srv_serror_rate,rerror_rate,srv_rerror_rate,same_srv_rate,diff_srv_rate,srv_diff_host_rate,classIDS
 zero,tcp,one+,one+,zero,zero,zero,zero,oneHundred,zero,oneHundred,normal
 zero,tcp,one+,one+,zero,zero,zero,zero,oneHundred,zero,25-49,normal
 zero,tcp,one+,one+,zero,zero,zero,zero,oneHundred,zero,zero,normal
