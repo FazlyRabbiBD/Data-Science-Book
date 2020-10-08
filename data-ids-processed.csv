@@ -1,4 +1,3 @@
-duration,protocol_type,count,srv_count,serror_rate,srv_serror_rate,rerror_rate,srv_rerror_rate,same_srv_rate,diff_srv_rate,srv_diff_host_rate,classIDS
 0,0,0,0,0,0,0,0,0,2,0,0
 0,0,0,0,0,0,0,0,0,2,5,0
 0,0,0,0,0,0,0,0,0,2,2,0
